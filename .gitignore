@@ -69,4 +69,6 @@ yarn-debug.log*
 /public/uploads
 
 #隠したいファイル
-test/*
+/test
+/tmp
+/log
